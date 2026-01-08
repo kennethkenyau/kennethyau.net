@@ -1,0 +1,44 @@
+{
+	"version": "https://jsonfeed.org/version/1",
+	"title": "Kenneth Yau",
+	"icon": "https://micro.blog/kennethyau/avatar.jpg",
+	"home_page_url": "https://kennethyau.net/",
+	"feed_url": "https://kennethyau.net/feed.json",
+	"items": [
+		
+			{
+				"id": "http://kennethyau.micro.blog/2026/01/08/eternal-sunshine-of-the-spotless.html",
+				"title": "Eternal Sunshine of the Spotless Mind 🎬 ★★★★★",
+				"content_html": "<p><a href=\"https://www.themoviedb.org/movie/38-eternal-sunshine-of-the-spotless-mind\">Eternal Sunshine of the Spotless Mind</a></p>\n<p>Rewatched for the first time in ages and even better than I remembered it, which is saying something since I’ve always loved this film.</p>\n<p>The ending was longer than I remembered. For some reason, I thought the film ended with Joel and Clementine meeting on the train – this does not count as a spoiler, even if you ignore the film being more than 20 years old – but I guess there’s a nice irony to my memory of the film being imperfect!</p>\n",
+				"content_text": "[Eternal Sunshine of the Spotless Mind](https://www.themoviedb.org/movie/38-eternal-sunshine-of-the-spotless-mind)\n\nRewatched for the first time in ages and even better than I remembered it, which is saying something since I’ve always loved this film.\n\nThe ending was longer than I remembered. For some reason, I thought the film ended with Joel and Clementine meeting on the train – this does not count as a spoiler, even if you ignore the film being more than 20 years old – but I guess there’s a nice irony to my memory of the film being imperfect!\n",
+				"date_published": "2026-01-08T21:38:23+00:00",
+				"url": "https://kennethyau.net/2026/01/08/eternal-sunshine-of-the-spotless.html"
+			},
+			{
+				"id": "http://kennethyau.micro.blog/2026/01/02/song-sung-blue.html",
+				"title": "Song Sung Blue 🎬 ★★★★☆",
+				"content_html": "<p><a href=\"https://www.themoviedb.org/movie/1371185\">Song Sung Blue</a> 🎬</p>\n<p>Another solid 4 stars from me, following on from yesterday&rsquo;s 4 star for <a href=\"https://kennethyau.net/2026/01/01/marty-supreme.html\">Marty Supreme</a>.</p>\n<p>Very different film to Marty Supreme in that it&rsquo;s way more conventional and feel-good while – mild spoiler alert – not being completely feel-good.</p>\n<p>But also similar in being biopics. That said, Marty Supreme, while ostensibly a biopic and based on an actual person, is clearly taking liberties with the story and is more fiction than fact. If I&rsquo;m reading correctly, the story in Song Sung Blue is what actually went down, which is amazing to me, having seen the film.</p>\n<p>Anyway, while not quite Barbenheimer, the 24-hour double bill of Marty Supreme and Song Sung Blue was a nice contrast of intellectual slapstick comedy and old-fashioned unashamed entertainment squarely aimed at your heart and tear ducts.</p>\n",
+				"content_text": "[Song Sung Blue](https://www.themoviedb.org/movie/1371185) 🎬\n\nAnother solid 4 stars from me, following on from yesterday's 4 star for [Marty Supreme](https://kennethyau.net/2026/01/01/marty-supreme.html).\n\nVery different film to Marty Supreme in that it's way more conventional and feel-good while – mild spoiler alert – not being completely feel-good.\n\nBut also similar in being biopics. That said, Marty Supreme, while ostensibly a biopic and based on an actual person, is clearly taking liberties with the story and is more fiction than fact. If I'm reading correctly, the story in Song Sung Blue is what actually went down, which is amazing to me, having seen the film.\n\nAnyway, while not quite Barbenheimer, the 24-hour double bill of Marty Supreme and Song Sung Blue was a nice contrast of intellectual slapstick comedy and old-fashioned unashamed entertainment squarely aimed at your heart and tear ducts.\n",
+				"date_published": "2026-01-02T22:32:48+00:00",
+				"url": "https://kennethyau.net/2026/01/02/song-sung-blue.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://kennethyau.micro.blog/2026/01/01/marty-supreme.html",
+				"title": "Marty Supreme 🎬 ★★★★☆",
+				"content_html": "<p>Watched: <a href=\"https://www.themoviedb.org/movie/1317288\">Marty Supreme</a></p>\n<p>A solid 4 stars from me. For the first act, I was utterly gripped and enchanted and thought this was heading easily for a 5-star rating, but I felt it sagged a bit in the second act and could have done with a bit of editing. There&rsquo;s one particular strand of the story I believe could have been excised without losing anything. That said, it picked up marvellously in the third act.</p>\n<p>Timothée Chalamet should definitely be in the running for an Oscar for this though I believe he will/should (deservedly) miss out to Michael B Jordan, for the latter&rsquo;s performance in Sinners.</p>\n",
+				"content_text": "Watched: [Marty Supreme](https://www.themoviedb.org/movie/1317288)\n\nA solid 4 stars from me. For the first act, I was utterly gripped and enchanted and thought this was heading easily for a 5-star rating, but I felt it sagged a bit in the second act and could have done with a bit of editing. There's one particular strand of the story I believe could have been excised without losing anything. That said, it picked up marvellously in the third act.\n\nTimothée Chalamet should definitely be in the running for an Oscar for this though I believe he will/should (deservedly) miss out to Michael B Jordan, for the latter's performance in Sinners.\n",
+				"date_published": "2026-01-01T20:50:05+00:00",
+				"url": "https://kennethyau.net/2026/01/01/marty-supreme.html",
+				"tags": ["Films"]
+			},
+			{
+				"id": "http://kennethyau.micro.blog/2026/01/01/hello-world.html",
+				
+				"content_html": "<p>Hello, world.</p>\n<p>It&rsquo;s a new year, so of course I&rsquo;m going to start a new blog.</p>\n<p>Lesson learned from previous attempts: not to overthink the first post; just lance that boil with a quick post like this one, and crack on.</p>\n",
+				"content_text": "Hello, world.\n\nIt's a new year, so of course I'm going to start a new blog.\n\nLesson learned from previous attempts: not to overthink the first post; just lance that boil with a quick post like this one, and crack on.\n",
+				"date_published": "2026-01-01T12:17:46+00:00",
+				"url": "https://kennethyau.net/2026/01/01/hello-world.html"
+			}
+	]
+}
